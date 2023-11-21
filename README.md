@@ -11,3 +11,5 @@ Implements user authentication and session management to ensure secure access to
 ![Screenshot (1369)](https://github.com/shreeyanshi-2111/hulu-clone/assets/67256100/abb1c654-edd9-4c66-a2ea-c66d4ca387e2)
 
 
+
+![Screenshot (1368)](https://github.com/shreeyanshi-2111/hulu-clone/assets/67256100/2bbb43d8-39d5-4076-8f3c-fc322c175a56)
